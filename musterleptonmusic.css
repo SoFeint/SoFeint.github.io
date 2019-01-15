@@ -1,0 +1,136 @@
+
+
+html, body {margin: 0px; padding: 0px
+max-width: 100%;
+    overflow-x: hidden;
+
+}
+
+#chiefkeef
+{
+	 background-color: black;
+	  border: 15px solid black ;
+	  text-align: center;
+}
+
+body p
+{
+	font-size: 25px;
+	padding: 20px;
+	text-align: center;
+	-webkit-transition: opacity 2s; /* For Safari */
+    transition: opacity 2s;
+	opacity: 0.0;
+}
+
+body p:hover
+{
+	opacity:  1.0;
+}
+
+
+
+#heads
+{
+  background-color: black ;
+  
+  border: 5px solid black ;
+  padding: -60px;
+
+  
+}
+
+
+ul 
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+}
+
+
+li 
+
+{
+	display: inline;
+	c
+
+}
+
+#table 
+{
+	display: table;
+	margin: 0 auto;
+	-webkit-transition: opacity 2s; /* For Safari */
+    transition: opacity 2s;
+	
+
+}
+
+#table:hover
+{
+	opacity: 0.3;
+	
+}
+
+#muster
+{
+	letter-spacing: 10px;
+	font-size: 50px;
+	display: inline-block;
+    -webkit-transition: font-size 2s letter-spacing 5s; /* For Safari */
+    transition: font-size 2s, letter-spacing 5s;-
+}
+
+#muster:hover
+{
+	font-size: 50px;
+	letter-spacing: 100px;
+}
+
+#shop
+{
+	font-family: 'ZCOOL KuaiLe', cursive;
+	padding: 25px;
+}
+
+#music
+{
+	font-family: 'ZCOOL KuaiLe', cursive;
+	padding: 25px;
+}
+
+a 
+{
+	color: white;
+	text-decoration: none;
+
+}
+
+#lack
+{
+
+}
+
+#lack:hover 
+{
+
+}
+
+
+#youtube
+{
+	display: table;
+	margin: 0 auto;
+
+}
+
+#youtube:hover 
+{
+
+}
+
+a:hover 
+{
+	
+}

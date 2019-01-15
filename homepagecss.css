@@ -1,0 +1,73 @@
+html 
+{
+	cursor: crosshair;
+}
+
+head 
+{
+	
+}
+
+body 
+{
+	background-color: black;
+	cursor: crosshair;
+}
+
+#muster 
+{
+	margin-top: 400px;
+	font-family: 'ZCOOL KuaiLe', cursive;
+	text-align: center;
+	color: white;
+}
+
+h1 
+{
+	text-align: center;
+	color: white;
+}
+
+
+#darktheme 
+{
+	
+	display: inline-block;
+	
+	padding: 20px;
+	color: white;
+	
+}
+
+#lighttheme
+{
+
+	display: inline-block;
+	padding: 20px;
+	color: white;
+	
+}
+
+#words 
+{
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	
+}
+
+a
+{
+text-decoration: none;
+cursor: crosshair;
+}
+
+a:hover
+{
+cursor: crosshair;
+}
+
+head 
+{
+	cursor: crosshair;
+}
