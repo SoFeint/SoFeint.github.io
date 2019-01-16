@@ -71,3 +71,10 @@ head
 {
 	cursor: crosshair;
 }
+
+#nicktheme
+{
+	display: inline-block;
+	padding: 20px;
+	color: white;
+}
