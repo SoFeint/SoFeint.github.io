@@ -39,13 +39,13 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
   var x = document.createElement("IMG");
-  x.setAttribute("src", "21.jpg");
+  x.setAttribute("src", "script/21.jpg");
   x.setAttribute("width", "304");
   x.setAttribute("height", "228");
   x.setAttribute("alt", "21savage");
   document.body.appendChild(x);
 
-  var audio = new Audio('11 ASTROTHUNDER.mp3');  audio.play(); audio.volume = 0.1;
+  var audio = new Audio('script/11 ASTROTHUNDER.mp3');  audio.play(); audio.volume = 0.1;
 
   alert("musterlepton!!!!!!!!!!!!!!!");
 }
